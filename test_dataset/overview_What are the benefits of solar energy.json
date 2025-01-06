@@ -1,0 +1,50 @@
+{
+    "https://www.enelgreenpower.com/learning-hub/renewable-energies/solar-energy/advantages-solar-energy": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details multiple benefits of solar energy.",
+        "summary": "Discusses advantages of solar energy, including sustainability and job creation."
+    },
+    "https://www.constellation.com/energy-101/energy-innovation/solar-energy-pros-and-cons.html": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details multiple benefits of solar energy.",
+        "summary": "Discusses advantages of solar energy, including cost savings and environmental impact."
+    },
+    "https://www.nationalgrid.com/stories/energy-explained/how-does-solar-power-work": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits of solar energy, including environmental impact.",
+        "summary": "Explains solar power, its clean energy benefits, and technology."
+    },
+    "https://www.repsol.com/en/energy-and-the-future/future-of-the-world/solar-energy/index.cshtml": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details various benefits of solar energy.",
+        "summary": "Explains solar energy types and their advantages."
+    },
+    "https://www.webmd.com/vitamins/ai/ingredientmono-1508/lychee": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses lychee, not solar energy benefits.",
+        "summary": "Information about lychee fruit, its uses, and side effects."
+    },
+    "https://www.stanwell.com/info-hub/article/how-does-solar-energy-work": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on how solar energy works, not its benefits.",
+        "summary": "Explains the process of capturing solar energy and its conversion."
+    },
+    "https://www.firstclasswatches.co.uk/blog/2021/12/10-interesting-facts-about-solar-watches/?srsltid=AfmBOoqi7dEmRKsEK_Xs38gAEGktcy6ZfIScPzoeyME7uRgbRN3iqxpk": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on solar watches, not benefits of solar energy.",
+        "summary": "Discusses features and history of solar watches."
+    },
+    "https://shopsavvy.com/best-picks/best-solar-chargers": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on solar chargers, not benefits of solar energy.",
+        "summary": "Discusses various solar phone chargers and their features."
+    }
+}

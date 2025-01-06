@@ -1,0 +1,50 @@
+{
+    "https://cats.com/how-do-cats-communicate-with-humans": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details how cats communicate with humans through various methods.",
+        "summary": "Explains cat communication methods including body language and vocalizations."
+    },
+    "https://www.trustedhousesitters.com/blog/pets/how-do-cats-communicate-with-humans/": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details how cats communicate with humans through sounds and body language.",
+        "summary": "Explains various ways cats interact with humans."
+    },
+    "https://www.petmd.com/news/view/cat-language-101-how-do-cats-talk-each-other-37620": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Explains how cats communicate with humans and each other.",
+        "summary": "Details cat communication methods, including vocalizations and body language."
+    },
+    "https://www.petsbest.com/blog/cat-behavior-problems": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Discusses various cat behaviors and their interactions with humans.",
+        "summary": "Explains common cat behaviors and their meanings in human interaction."
+    },
+    "https://www.ancientodysseys.com/post/how-technology-is-used-in-archaeology": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses archaeology, not cat-human interactions.",
+        "summary": "Explains technological advances in archaeology."
+    },
+    "https://www.gardenhealth.com/advice/houseplant-care/how-to-water-and-feed-houseplants": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses cookies and houseplant care, not cat interactions.",
+        "summary": "Focuses on cookie usage and houseplant care tips."
+    },
+    "https://www.bluecross.org.uk/advice/cat/wellbeing-and-care/looking-after-your-cat-in-winter": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on winter care for cats, not human interaction.",
+        "summary": "Advice on keeping cats warm and safe in winter."
+    },
+    "https://www.smithsonianmag.com/history/a-brief-history-of-house-cats-158390681/": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Discusses the historical and cultural interactions between cats and humans.",
+        "summary": "Explores the domestication and cultural significance of cats with humans."
+    }
+}

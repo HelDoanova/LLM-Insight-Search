@@ -1,0 +1,50 @@
+{
+    "https://accubow.com/blogs/news/the-history-of-the-bow-and-arrow_b_17?srsltid=AfmBOop_5Tkm2BCtri3ms_KZPPUe06mvrDany2zxxZf46BOE1WPxOcJi": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details the history and evolution of the bow and arrow.",
+        "summary": "Covers the invention, use, and development of bows and arrows."
+    },
+    "https://www.britannica.com/technology/bow-and-arrow": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details the history and evolution of the bow and arrow.",
+        "summary": "Discusses the origins and historical significance of the bow and arrow."
+    },
+    "https://www.historic-uk.com/HistoryUK/HistoryofEngland/The-Longbow/": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Covers the history and significance of the longbow and arrows.",
+        "summary": "Details the longbow's history, battles, and timeline."
+    },
+    "https://archerygb.org/about/history-of-archery": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details the history and evolution of the bow and arrow.",
+        "summary": "Explores the origins and development of archery in the UK."
+    },
+    "https://www.cdc.gov/radiation-health/features/uv-radiation.html": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "The document discusses UV radiation, not the bow and arrow's history.",
+        "summary": "Focuses on UV radiation and its health effects."
+    },
+    "https://gogonihon.com/en/blog/japanese-bow/": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses Japanese bowing culture, not bow and arrow history.",
+        "summary": "Explains the significance and types of bows in Japanese culture."
+    },
+    "https://www.galleriacavourbologna.com/en/gc-magazine_en/the-history-of-the-bow-in-the-fashion-world/": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on the history of bows in fashion, not bow and arrow.",
+        "summary": "Discusses the evolution of bows as a fashion element."
+    },
+    "https://countrycrossbow.com/culture-and-community/history-of-the-crossbow/": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on crossbows, not the history of the bow and arrow.",
+        "summary": "Discusses the history and evolution of crossbows."
+    }
+}

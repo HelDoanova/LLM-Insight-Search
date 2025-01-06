@@ -1,0 +1,50 @@
+{
+    "https://levity.ai/blog/difference-machine-learning-deep-learning": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Clearly outlines differences between machine learning and deep learning.",
+        "summary": "Explains machine learning and deep learning, highlighting their key differences."
+    },
+    "https://www.geeksforgeeks.org/difference-between-machine-learning-and-deep-learning/": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Clearly outlines key differences between machine learning and deep learning.",
+        "summary": "Explains differences, methodologies, and applications of machine learning and deep learning."
+    },
+    "https://www.sas.com/cs_cz/insights/articles/big-data/artificial-intelligence-machine-learning-deep-learning-and-beyond.html": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Explains differences between machine learning and deep learning.",
+        "summary": "Describes AI, machine learning, and deep learning relationships."
+    },
+    "https://vngcloud.vn/blog/machine-learning-deep-learning-neural-networks-similarities-and-differences": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Clearly outlines key differences between machine learning and deep learning.",
+        "summary": "Discusses distinctions between machine learning and deep learning methodologies."
+    },
+    "https://www.oceanicsociety.org/resources/ocean-facts/11-sea-turtle-facts/": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses sea turtles, not machine learning or deep learning.",
+        "summary": "Provides facts about sea turtles and their biology."
+    },
+    "https://www.energy.gov/science/doe-explainsmachine-learning": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Focuses solely on machine learning, lacks deep learning comparison.",
+        "summary": "Describes machine learning processes and applications."
+    },
+    "https://www.telefonica.com/en/communication-room/blog/everything-you-need-to-know-about-deep-learning/": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Focuses solely on deep learning without comparing it to machine learning.",
+        "summary": "Explains deep learning, its functions, and applications."
+    },
+    "https://dignitymade.com/blogs/a/6-fun-facts-you-didn-t-know-about-coconuts": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses coconuts, not machine learning or deep learning.",
+        "summary": "Provides fun facts about coconuts and their uses."
+    }
+}

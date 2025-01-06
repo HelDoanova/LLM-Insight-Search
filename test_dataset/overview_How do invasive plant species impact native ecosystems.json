@@ -1,0 +1,50 @@
+{
+    "https://cid-inc.com/blog/the-impact-of-invasive-species-managing-threats-to-forest-ecosystems/": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details the impact of invasive species on native ecosystems.",
+        "summary": "Discusses how invasive species threaten biodiversity and forest ecosystems."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7194640/": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Discusses the impact of invasive plant species on ecosystems and human health.",
+        "summary": "Explores ecological, economic, and health impacts of invasive alien plant species."
+    },
+    "https://www.ecolandscaping.org/native-and-invasive-plants/": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Discusses how invasive plants disrupt native ecosystems.",
+        "summary": "Explains the impact of invasive plants on native flora and ecosystems."
+    },
+    "https://www.bio-conferences.org/articles/bioconf/full_html/2021/03/bioconf_pibidr2021_00024/bioconf_pibidr2021_00024.html": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Discusses the impact of invasive plant species on ecosystems and biodiversity.",
+        "summary": "Explores how invasive plants disrupt ecosystems and threaten native species."
+    },
+    "https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/chocolate-myths": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Document does not address invasive plant species or ecosystems.",
+        "summary": "Focuses on heart health, not related to ecosystems."
+    },
+    "https://www.healthline.com/health/healthy-home-guide/benefits-of-indoor-plants": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "The document discusses indoor plants, not invasive species or their impact.",
+        "summary": "Explains benefits of indoor plants for health and well-being."
+    },
+    "https://www.smithsonianmag.com/science-nature/the-worlds-worst-invasive-mammals-77341057/": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Discusses various invasive species and their ecological impacts.",
+        "summary": "Details how invasive species disrupt native ecosystems."
+    },
+    "https://ccri.at/invasive-virus-infections-during-chemotherapy-an-underestimated-factor/": {
+        "level": 0,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on viral infections in chemotherapy, not invasive plant species.",
+        "summary": "Discusses viral infections during chemotherapy in cancer patients."
+    }
+}
