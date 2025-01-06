@@ -123,7 +123,8 @@ def process_urls(current_urls, extractor, classifier, database_handler, remainin
             except json.JSONDecodeError as e:
                 logging.warning("INVALID MARKDOWN")
                 print(f"Error decoding JSON: {e}")
-                continue
+                #continue
+                break
  
             # Adds classification to the document
             document.update({
