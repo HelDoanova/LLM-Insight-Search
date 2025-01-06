@@ -1,0 +1,2321 @@
+{
+    "search": {
+        "search_query": "What are the benefits and risks of intermittent fasting?"
+    },
+    "https://www.medicalnewstoday.com/articles/323605": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Explains potential benefits and risks of intermittent fasting."
+    },
+    "https://www.healthline.com/nutrition/intermittent-fasting-side-effects": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Discusses health benefits and potential side effects of intermittent fasting."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/pros-and-cons-of-intermittent-fasting": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Discusses pros and cons of intermittent fasting, including health impacts."
+    },
+    "https://www.hopkinsmedicine.org/health/wellness-and-prevention/intermittent-fasting-what-is-it-and-how-does-it-work": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Explains intermittent fasting, its benefits, and safety concerns."
+    },
+    "https://www.healthline.com/nutrition/10-health-benefits-of-intermittent-fasting": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Explains intermittent fasting's health benefits and potential risks."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9998115/": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explores intermittent fasting's benefits, side effects, and participant experiences."
+    },
+    "https://www.health.harvard.edu/heart-health/not-so-fast-pros-and-cons-of-the-newest-diet-trend": {
+        "level": 0,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explains intermittent fasting, its benefits, risks, and effectiveness."
+    },
+    "https://www.medicalnewstoday.com/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Podcast on health resolutions, no mention of fasting."
+    },
+    "https://www.medicalnewstoday.com/alzheimers-and-dementia": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics, not fasting."
+    },
+    "https://www.medicalnewstoday.com/anxiety": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/asthma-and-allergies": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics, not fasting."
+    },
+    "https://www.medicalnewstoday.com/program/investigating-atopic-dermatitis": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Podcast about health resolutions, no mention of fasting."
+    },
+    "https://www.medicalnewstoday.com/breast-cancer": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting.",
+        "summary": "Contains links to various health topics, not fasting."
+    },
+    "https://www.medicalnewstoday.com/cancer": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/cardiovascular-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/coronavirus?correlationId=2b137d5a-dcfb-464e-9ea6-72c5a54b4e92": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/diabetes": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/environment-and-sustainability": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/exercise-and-fitness": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and articles."
+    },
+    "https://www.medicalnewstoday.com/eye-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/headache-and-migraine": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.medicalnewstoday.com/health-equity": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/hiv-and-aids": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics, not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/human-biology": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.medicalnewstoday.com/leukemia": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting.",
+        "summary": "Contains links to various health topics and conditions."
+    },
+    "https://www.medicalnewstoday.com/LGBTQIA": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/mens-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/mental-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/multiple-sclerosis": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/nutrition": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses intermittent fasting methods, benefits, and risks.",
+        "summary": "Covers various intermittent fasting diets and their implications."
+    },
+    "https://www.medicalnewstoday.com/parkinsons-disease": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/program/a-deeper-look-at-psoriasis": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics, not fasting."
+    },
+    "https://www.medicalnewstoday.com/program/beneath-the-surface-with-psoriatic-arthritis": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Podcast on health resolutions, no mention of fasting."
+    },
+    "https://www.medicalnewstoday.com/program/investigating-ulcerative-colitis": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health conditions and products."
+    },
+    "https://www.medicalnewstoday.com/womens-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/products-and-reviews": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and products."
+    },
+    "https://www.medicalnewstoday.com/products-and-reviews/nutrition-and-fitness-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and products."
+    },
+    "https://www.medicalnewstoday.com/products-and-reviews/vitamin-and-supplement-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and products."
+    },
+    "https://www.medicalnewstoday.com/products-and-reviews/cbd-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and products."
+    },
+    "https://www.medicalnewstoday.com/products-and-reviews/sleep-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/products-and-reviews/mental-health-services-and-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/products-and-reviews/at-home-testing-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and products."
+    },
+    "https://www.medicalnewstoday.com/products-and-reviews/mens-health-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and products."
+    },
+    "https://www.medicalnewstoday.com/products-and-reviews/womens-health-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/news": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/content-series/medical-myths": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.medicalnewstoday.com/content-series/honest-nutrition": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics, not fasting."
+    },
+    "https://www.medicalnewstoday.com/content-series/through-my-eyes": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and articles."
+    },
+    "https://www.medicalnewstoday.com/content-series/new-normal-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.medicalnewstoday.com/articles/5-things-everyone-should-know-about-menopause": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on menopause and related health topics."
+    },
+    "https://www.medicalnewstoday.com/articles/3-lifestyle-changes-slow-down-type-2-diabetes-related-brain-aging": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on type 2 diabetes and cognitive health."
+    },
+    "https://www.medicalnewstoday.com/articles/toxic-metals-tampons-arsenic-lead-should-you-be-worried#1": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses heavy metals in tampons, not intermittent fasting.",
+        "summary": "Covers findings on toxic metals in menstrual products."
+    },
+    "https://www.medicalnewstoday.com/articles/can-tattoos-cause-blood-or-skin-cancer": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on health conditions and tattoo-related cancer risks."
+    },
+    "https://www.medicalnewstoday.com/articles/in-conversation-can-we-really-outrun-the-grim-reaper": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses extreme exercise, not intermittent fasting.",
+        "summary": "Focuses on health benefits and risks of extreme exercise."
+    },
+    "https://www.medicalnewstoday.com/articles/in-conversation-what-makes-a-diet-truly-heart-healthy": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on heart-healthy diets and related studies."
+    },
+    "https://www.medicalnewstoday.com/drugs": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and products."
+    },
+    "https://www.medicalnewstoday.com/articles/content-hubs": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/newsletter": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and products."
+    },
+    "https://www.medicalnewstoday.com/provider-near-me": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information about medical specialties and health news."
+    },
+    "https://www.medicalnewstoday.com/articles/323586": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on BMI and weight-related health issues."
+    },
+    "https://www.medicalnewstoday.com/articles/327077": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses blood pressure, not intermittent fasting.",
+        "summary": "Focuses on blood pressure management and health risks."
+    },
+    "https://www.medicalnewstoday.com/articles/316898": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses breast cancer self-examination, not intermittent fasting.",
+        "summary": "Guides on breast self-examination and cancer detection."
+    },
+    "https://www.medicalnewstoday.com/articles/sleep-calculator": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on sleep health and its importance."
+    },
+    "https://www.medicalnewstoday.com/articles/science-fact-or-fiction-separating-ra-myths-from-facts#1": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics, no mention of fasting."
+    },
+    "https://www.medicalnewstoday.com/articles/managing-blood-sugar-type-2-diabetes-quiz#1": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/articles/complementary-therapies-for-as-quiz#1": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on ankylosing spondylitis and complementary therapies."
+    },
+    "https://www.medicalnewstoday.com/about": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Overview of Medical News Today and its health information services."
+    },
+    "https://www.medicalnewstoday.com/articles/process": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains general health information and editorial process details."
+    },
+    "https://www.medicalnewstoday.com/about/content-integrity": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains general health information and links to various health topics."
+    },
+    "https://www.medicalnewstoday.com/about/conscious-language": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on health conditions and conscious language in health communication."
+    },
+    "https://www.bezzybc.com/lp/2/?verzenio&utm_source=mnt&utm_medium=nav-bar-connect": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not address intermittent fasting benefits or risks.",
+        "summary": "Contains advertisements and information about a community for breast cancer."
+    },
+    "https://www.bezzyms.com/?utm_source=mnt&utm_medium=nav-bar-connect": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on MS community, not intermittent fasting.",
+        "summary": "Describes a community for multiple sclerosis support."
+    },
+    "https://www.bezzyibd.com/?utm_source=mnt&utm_medium=nav-bar-connect": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on IBD community, not intermittent fasting.",
+        "summary": "Discusses support for Crohn's and colitis patients."
+    },
+    "https://www.bezzypsoriasis.com/?utm_source=mnt&utm_medium=nav-bar-connect": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on psoriasis, not intermittent fasting.",
+        "summary": "Community support for psoriasis, no mention of fasting."
+    },
+    "https://flipboard.com/@MedNewsToday": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics, no relevant content."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9946909/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses both benefits and risks of intermittent fasting.",
+        "summary": "Reviews benefits and risks of intermittent fasting on health."
+    },
+    "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2623528?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jamainternmed.2017.0936": {
+        "level": 1,
+        "classification": "ERROR",
+        "explanation": "Document text is inaccessible or empty.",
+        "summary": "No content available to summarize."
+    },
+    "https://www.medicalnewstoday.com/articles/322293": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explains intermittent fasting methods, benefits, and potential risks."
+    },
+    "https://www.medicalnewstoday.com/articles/270644.php": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses blood pressure, not intermittent fasting.",
+        "summary": "Explains blood pressure measurement and health implications."
+    },
+    "https://www.medicalnewstoday.com/articles/303409": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting specifically.",
+        "summary": "Offers tips for successful weight loss and healthy eating."
+    },
+    "https://www.medicalnewstoday.com/info/diabetes/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses diabetes, not intermittent fasting.",
+        "summary": "Covers types, management, and complications of diabetes."
+    },
+    "https://www.medicalnewstoday.com/articles/305567": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on insulin resistance and diabetes management."
+    },
+    "https://www.niddk.nih.gov/health-information/diabetes/overview/risk-factors-type-2-diabetes": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on diabetes risk factors, not intermittent fasting.",
+        "summary": "Discusses risk factors for type 2 diabetes."
+    },
+    "https://www.medicalnewstoday.com/articles/317462": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses diabetes, not intermittent fasting.",
+        "summary": "Focuses on type 2 diabetes symptoms and management."
+    },
+    "https://www.medicalnewstoday.com/articles/317206": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on prediabetes, its causes, and management."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8839325/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explores intermittent fasting's effects on weight, insulin resistance, and cardiovascular health."
+    },
+    "https://www.endocrine-abstracts.org/ea/0056/ea0056p519": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses effects of intermittent fasting, including benefits and risks.",
+        "summary": "Intermittent fasting impacts insulin resistance and body weight in rats."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4410598/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on gender differences in metabolism, not benefits or risks of fasting.",
+        "summary": "Discusses sexual dimorphism in metabolism during fasting, hypoglycemia, and exercise."
+    },
+    "https://www.mdpi.com/2076-328X/7/1/4": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Reviews intermittent energy restriction's effects on weight and metabolism."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5411330/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explores health impacts of intermittent fasting on various diseases."
+    },
+    "https://www.medicalnewstoday.com/articles/9152.php": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses cholesterol, not intermittent fasting.",
+        "summary": "Explains causes and management of high cholesterol."
+    },
+    "https://www.medicalnewstoday.com/articles/triglyceride-levels": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on triglyceride levels and their health implications."
+    },
+    "https://www.medicalnewstoday.com/articles/237191.php": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses heart disease, not intermittent fasting.",
+        "summary": "Covers types, causes, symptoms, and treatments of heart disease."
+    },
+    "https://www.wellos.com/?utm_source=mnt&utm_medium=native&utm_campaign=wellos_mariosp_confidenceandenergy&correlationId=d23a7894-c9c0-4ceb-b686-dd8051c65d01&rvo_subid=e%3Ahw_s%3Amnt_p%3Awellos_n%3Anutrition_l%3Amiddle_i%3Asocialproof_v%3Ashortened_48461&rvo_sys=mar&noFollowParam=1": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on weight loss coaching, not intermittent fasting.",
+        "summary": "Promotes a weight loss program with meal planning and coaching."
+    },
+    "https://www.healthline.com/nutrition/10-health-benefits-of-intermittent-fasting#TOC_TITLE_HDR_9": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Explains intermittent fasting's health benefits and potential risks."
+    },
+    "https://www.medicalnewstoday.com/articles/159442.php": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses Alzheimer's disease, not intermittent fasting.",
+        "summary": "Overview of Alzheimer's disease, its symptoms, and treatments."
+    },
+    "https://www.medicalnewstoday.com/info/parkinsons-disease/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses Parkinson's disease, not intermittent fasting.",
+        "summary": "Covers early signs, causes, and risk factors of Parkinson's disease."
+    },
+    "https://www.medicalnewstoday.com/articles/7624.php": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses strokes, not intermittent fasting.",
+        "summary": "Explains types, causes, symptoms, and treatments of strokes."
+    },
+    "https://www.medicalnewstoday.com/info/cancer-oncology/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses cancer, not intermittent fasting.",
+        "summary": "Overview of cancer, its causes, treatments, and types."
+    },
+    "https://www.medicalnewstoday.com/articles/323551": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on obesity causes and related health issues."
+    },
+    "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on obesity and overweight, not intermittent fasting.",
+        "summary": "Discusses obesity statistics, causes, and health consequences."
+    },
+    "https://www.medicalnewstoday.com/articles/319394": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Discusses methods, benefits, and risks of intermittent fasting."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8954770/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explores intermittent fasting's effects on brain metabolism and health."
+    },
+    "https://www.medicalnewstoday.com/articles/324863": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on oxidative stress and its effects on health."
+    },
+    "https://www.hindawi.com/journals/omcl/2017/8416763/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on oxidative stress, not on intermittent fasting.",
+        "summary": "Discusses oxidative stress and its effects on health."
+    },
+    "https://www.medicalnewstoday.com/articles/318652": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Covers free radicals and their effects on health."
+    },
+    "https://www.tandfonline.com/doi/full/10.1080/10942912.2018.1560312": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses cookies, not intermittent fasting.",
+        "summary": "Contains information about cookie policies and website usage."
+    },
+    "https://www.cell.com/cell/fulltext/S0092-8674(19)30850-5": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not address intermittent fasting benefits or risks.",
+        "summary": "Contains unrelated content with no relevant information."
+    },
+    "https://www.medicalnewstoday.com/articles/autophagy": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses fasting's role in autophagy, including benefits and risks.",
+        "summary": "Explains autophagy, its health effects, and fasting's impact."
+    },
+    "https://www.frontiersin.org/articles/10.3389/fncel.2019.00196/full": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on autophagy in neuropsychiatric disorders, not intermittent fasting.",
+        "summary": "Discusses autophagy's role in neurodegenerative and psychiatric disorders."
+    },
+    "https://www.sciencedirect.com/science/article/pii/S2666149723000063": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explores effects of intermittent fasting on autophagy, inflammation, and senescence."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10413426/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting related to Alzheimer's disease.",
+        "summary": "Explores intermittent fasting's effects on cognitive health and Alzheimer's disease."
+    },
+    "https://link.springer.com/article/10.1007/s13311-019-00719-2": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of fasting mimicking diet related to neuroprotection.",
+        "summary": "Explores fasting mimicking diet's effects on Parkinson's disease in mice."
+    },
+    "https://www.medicalnewstoday.com/articles/159552": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses Huntington's disease, not intermittent fasting.",
+        "summary": "Details symptoms, causes, and treatment of Huntington's disease."
+    },
+    "https://www.nature.com/articles/s41467-017-00178-3?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=CONR_PF018_ECOM_GL_PHSS_ALWYS_DEEPLINK&utm_content=textlink&utm_term=PID100090071&CJEVENT=c0d99cc48a1411ee8396055f0a18b8f9": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting in mice.",
+        "summary": "Examines effects of every-other-day feeding on lifespan and health in mice."
+    },
+    "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30512-6": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not address intermittent fasting benefits or risks.",
+        "summary": "Contains unrelated content with no relevant information."
+    },
+    "https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.1444": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits of intermittent fasting on neurogenesis.",
+        "summary": "Intermittent fasting enhances neurogenesis and activates signaling pathways in the brain."
+    },
+    "https://www.endocrine-abstracts.org/ea/0056/ea0056p519.htm": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses effects of intermittent fasting, including benefits and risks.",
+        "summary": "Intermittent fasting impacts insulin resistance and body weight in rats."
+    },
+    "https://academic.oup.com/ajcn/article/102/2/464/4564588": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information about various nutrition articles and research."
+    },
+    "https://www.medicalnewstoday.com/articles/danish-studies-find-higher-risk-optic-nerve-damage-diabetes-drug-ozempic": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Discusses risks of Ozempic, not intermittent fasting.",
+        "summary": "Focuses on risks associated with the diabetes drug Ozempic."
+    },
+    "https://www.medicalnewstoday.com/articles/3-ways-to-boost-longevity-in-2025": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses intermittent fasting and its benefits for longevity.",
+        "summary": "Explores dietary choices, including intermittent fasting, for longevity."
+    },
+    "https://www.medicalnewstoday.com/articles/antibiotic-use-does-not-increase-dementia-risk-study-suggests": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses antibiotics and dementia, not intermittent fasting.",
+        "summary": "Focuses on antibiotic use and its effects on dementia risk."
+    },
+    "https://www.medicalnewstoday.com/articles/insufficient-sleep-high-blood-pressure-may-raise-risk-brain-aging-injury": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses sleep and hypertension, not intermittent fasting.",
+        "summary": "Explores the relationship between sleep duration and cognitive health."
+    },
+    "https://www.medicalnewstoday.com/articles/why-getting-more-deep-sleep-may-help-improve-memory": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on the importance of deep sleep for memory."
+    },
+    "https://www.medicalnewstoday.com/articles/319394?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Discusses methods, benefits, and risks of intermittent fasting."
+    },
+    "https://www.medicalnewstoday.com/reviewers": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but lacks specific information on fasting."
+    },
+    "https://www.medicalnewstoday.com/articles/327398?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of 16:8 intermittent fasting.",
+        "summary": "Discusses 16:8 intermittent fasting, its benefits, and potential risks."
+    },
+    "https://www.medicalnewstoday.com/articles/intermittent-fasting-and-working-out?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explores intermittent fasting, its benefits, risks, and types."
+    },
+    "https://www.medicalnewstoday.com/articles/can-a-healthy-quality-diet-help-alleviate-chronic-pain?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting specifically.",
+        "summary": "Focuses on diet quality and its impact on chronic pain."
+    },
+    "https://www.healthline.com/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.healthline.com/directory/topics": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.healthline.com/breast-cancer": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information on various health conditions and wellness topics."
+    },
+    "https://www.healthline.com/cancer-care": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and conditions."
+    },
+    "https://www.healthline.com/alzheimers-disease": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/ckd": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information on various health conditions and wellness topics."
+    },
+    "https://www.healthline.com/copd": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/digestive-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/eye-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/heart-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/menopause": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/mental-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on mental health and wellness topics."
+    },
+    "https://www.healthline.com/migraine": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/multiple-sclerosis": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/psoriasis": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information on various health conditions and wellness topics."
+    },
+    "https://www.healthline.com/rheumatoid-arthritis": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/sleep": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/type-2-diabetes": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on various health conditions and diabetes management."
+    },
+    "https://www.healthline.com/weight-management": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not mention intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/sponsored-topics": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.healthline.com/program/controlling-uc": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information on various health conditions and wellness topics."
+    },
+    "https://www.healthline.com/program/navigating-life-with-bipolar-disorder": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/program/mastering-your-geographic-atrophy-care": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information on various health conditions and wellness topics."
+    },
+    "https://www.healthline.com/program/managing-type-2-diabetes-with-food-and-fitness": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/wellness": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/cbd": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on health conditions and CBD products."
+    },
+    "https://www.healthline.com/fitness": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/hearing-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/nutrition": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health and nutrition topics, no fasting information."
+    },
+    "https://www.healthline.com/parenthood": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/recipes": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics and recipes, no fasting information."
+    },
+    "https://www.healthline.com/sexual-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/skincare": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/vitamins-supplements": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/program/womens-wellness": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/reviews": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/reviews/at-home-tests": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/reviews/mens-health-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/reviews/mental-health-services-and-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/reviews/nutrition-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but no information on fasting."
+    },
+    "https://www.healthline.com/reviews/sleep-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but no information on fasting."
+    },
+    "https://www.healthline.com/reviews/vitamin-and-supplement-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and product reviews."
+    },
+    "https://www.healthline.com/reviews/womens-health-products": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/program/your-eczema-skin-care-roadmap": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/program/understanding-inflammation-and-aging": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/program/cold-flu-survival-guide": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/program/shes-good-for-real": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/video": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/pill-identifier": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains general health topics and product reviews."
+    },
+    "https://care.healthline.com/find-care": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses finding doctors, not intermittent fasting.",
+        "summary": "Information on finding local doctors and specialties."
+    },
+    "https://learn.healthline.com": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Does not address intermittent fasting benefits or risks.",
+        "summary": "Promotes health programs and lifestyle changes for chronic conditions."
+    },
+    "https://www.healthline.com/app/inflammatory-bowel-disease?utm_source=lessonshome": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on IBD education, not intermittent fasting.",
+        "summary": "Offers micro-lessons for managing Crohn’s and ulcerative colitis."
+    },
+    "https://www.healthline.com/app/type-2-diabetes?utm_source=lessonshome": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on diabetes nutrition, not intermittent fasting.",
+        "summary": "Offers diabetes nutrition lessons and expert guidance."
+    },
+    "https://www.healthline.com/app/high-cholesterol?utm_source=lessonshome": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on cholesterol and heart health, not intermittent fasting.",
+        "summary": "Offers micro-lessons on cholesterol and heart health."
+    },
+    "https://www.healthline.com/app/pso-inflammation?utm_source=lessonshome": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on psoriasis relief, not intermittent fasting.",
+        "summary": "Offers lessons on managing psoriasis and skin health."
+    },
+    "https://www.healthline.com/app/psa-inflammation?utm_source=lessonshome": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on psoriatic arthritis, not intermittent fasting.",
+        "summary": "Discusses lessons for managing psoriatic arthritis."
+    },
+    "https://www.healthline.com/newsletter-signup": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and conditions."
+    },
+    "https://www.healthline.com/newsletter-signup/anxiety-and-depression": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and conditions."
+    },
+    "https://www.healthline.com/newsletter-signup/ibd": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics, no mention of fasting."
+    },
+    "https://www.healthline.com/newsletter-signup/heart-health": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and conditions."
+    },
+    "https://www.healthline.com/newsletter-signup/migraine": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.healthline.com/newsletter-signup/nutrition": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and conditions."
+    },
+    "https://www.healthline.com/newsletter-signup/type-2-diabetes": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.healthline.com/newsletter-signup/wellness-wire": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://activation.healthline.com/assessment/assessment/diets/prompt/1?v=1&tc=120226&subid=hl_dietfinder_1_": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Does not address intermittent fasting benefits or risks.",
+        "summary": "Contains options for dietary choices without relevant information."
+    },
+    "https://activation.healthline.com/assessment/assessment/pregnancy-snacks/prompt/1?v=1": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not address intermittent fasting benefits or risks.",
+        "summary": "Contains links and options for snacks, unrelated to fasting."
+    },
+    "https://www.healthline.com/nutrition/weight-management-quiz": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.healthline.com/health/healthy-sleep/quiz-how-well-do-you-sleep#1": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/health/mental-health/quiz-are-you-a-workaholic#quiz-are-you-a-workaholic": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on work addiction and mental health issues."
+    },
+    "https://www.bezzy.com/?utm_source=healthline&utm_medium=nav-bar-connections": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on community support, not intermittent fasting.",
+        "summary": "Bezzy offers online support for chronic conditions."
+    },
+    "https://www.bezzybc.com/lp/2/?verzenio&utm_source=healthline&utm_medium=nav-bar-connections": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not address intermittent fasting benefits or risks.",
+        "summary": "Contains advertisements and information about a community for breast cancer."
+    },
+    "https://www.bezzyms.com/?utm_source=healthline&utm_medium=nav-bar-connections": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on a community for MS, not intermittent fasting.",
+        "summary": "Describes a community platform for multiple sclerosis support."
+    },
+    "https://www.bezzydepression.com/?auvelity&utm_source=healthline&utm_medium=nav-bar-connections": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on community support for depression, not intermittent fasting.",
+        "summary": "Discusses community support and mental health resources."
+    },
+    "https://www.bezzyibd.com/?utm_source=healthline&utm_medium=nav-bar-connections": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on IBD community, not intermittent fasting.",
+        "summary": "Community support for Crohn's and colitis patients."
+    },
+    "https://www.bezzyt2d.com/?utm_source=healthline&utm_medium=nav-bar-connections": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on type 2 diabetes, not intermittent fasting.",
+        "summary": "Community support for managing type 2 diabetes."
+    },
+    "https://www.bezzypsoriasis.com/?utm_source=healthline&utm_medium=nav-bar-connections": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on psoriasis, not intermittent fasting.",
+        "summary": "Community support for psoriasis, no mention of fasting."
+    },
+    "https://flipboard.com/@healthline": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health-related articles, no mention of fasting."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6314618/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Examines safety, health improvements, and well-being during fasting."
+    },
+    "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30253-5?_return": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not address intermittent fasting benefits or risks.",
+        "summary": "Contains unrelated content with no relevant information."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7021351/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Examines evidence for intermittent fasting in treating obesity."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8092432/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Examines intermittent fasting's effects on cardiovascular disease prevention."
+    },
+    "https://www.healthline.com/nutrition/6-ways-to-do-intermittent-fasting": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Discusses pros and cons of intermittent fasting methods."
+    },
+    "https://www.healthline.com/nutrition/time-restricted-eating": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and health effects of intermittent fasting.",
+        "summary": "Explains intermittent fasting, its benefits, and health effects."
+    },
+    "https://www.healthline.com/nutrition/alternate-day-fasting-guide": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of alternate-day fasting.",
+        "summary": "Explains alternate-day fasting, its benefits, and potential risks."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/29778565/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses effects of intermittent fasting on weight loss and hunger.",
+        "summary": "Compares intermittent and continuous energy restriction effects."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732631/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of alternate-day fasting.",
+        "summary": "Analyzes effects of alternate-day fasting on weight and health indicators."
+    },
+    "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013496.pub2/full": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting related to cardiovascular disease.",
+        "summary": "Examines intermittent fasting's effects on cardiovascular disease prevention."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/20490742/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses fasting headaches, not benefits or risks of intermittent fasting.",
+        "summary": "Focuses on headaches related to fasting, not intermittent fasting."
+    },
+    "https://www.healthline.com/nutrition/caffeine-withdrawal-symptoms": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses caffeine withdrawal, not intermittent fasting.",
+        "summary": "Covers symptoms and management of caffeine withdrawal."
+    },
+    "https://www.healthline.com/health/indigestion": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses indigestion, not intermittent fasting.",
+        "summary": "Covers causes, symptoms, and treatments of indigestion."
+    },
+    "http://healthline.com/health/diarrhea-during-fasting": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks associated with fasting.",
+        "summary": "Explains fasting benefits like weight loss and risks like diarrhea."
+    },
+    "https://www.healthline.com/health/nausea": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses nausea, not intermittent fasting.",
+        "summary": "Covers causes, treatment, and prevention of nausea."
+    },
+    "https://www.healthline.com/nutrition/22-high-fiber-foods": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on high fiber foods and their health benefits."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4992682/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses both benefits and risks of fasting.",
+        "summary": "Explores psychological effects of short-term fasting, including benefits and irritability."
+    },
+    "https://www.healthline.com/health/hypoglycemia": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses hypoglycemia, not intermittent fasting.",
+        "summary": "Explains causes, symptoms, and treatment of hypoglycemia."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6695274/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on hypoglycemia in non-diabetic individuals, not intermittent fasting.",
+        "summary": "Discusses hypoglycemic symptoms in non-diabetic women and their implications."
+    },
+    "https://www.healthline.com/health/irritability": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses irritability, not intermittent fasting.",
+        "summary": "Covers causes and coping strategies for irritability."
+    },
+    "https://www.healthline.com/health/anxiety-symptoms": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses anxiety, not intermittent fasting.",
+        "summary": "Focuses on anxiety symptoms and disorders."
+    },
+    "https://www.healthline.com/health/unable-to-concentrate": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on concentration issues and related health conditions."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5371748/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Reviews intermittent fasting's effects on weight loss and metabolic health."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5819235/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of medically supervised fasting.",
+        "summary": "Analyzes adverse events and benefits of water-only fasting."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7469051/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and effects of fasting, including intermittent fasting.",
+        "summary": "Explores effects of Ramadan fasting on fatigue, mood, and body composition."
+    },
+    "https://www.nature.com/articles/s41387-018-0058-5": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on breath acetone and energy balance, not intermittent fasting benefits or risks.",
+        "summary": "Explores breath acetone as a marker of energy balance during fasting and feeding."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4813452/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on halitosis, not on intermittent fasting.",
+        "summary": "Discusses causes, diagnosis, and management of halitosis."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6836141/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of fasting, including neurological impacts.",
+        "summary": "Explores fasting's effects on health, particularly neurological diseases."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7828375/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting on sleep.",
+        "summary": "Examines effects of alternate day fasting on sleep quality and weight loss."
+    },
+    "https://www.healthline.com/health/diuresis": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Covers diuresis, its causes, symptoms, and treatment."
+    },
+    "https://www.healthline.com/health/urine-color-chart": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses urine color, not intermittent fasting.",
+        "summary": "Explains urine color variations and their meanings."
+    },
+    "https://www.healthline.com/nutrition/malnutrition": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on malnutrition types, symptoms, and treatment."
+    },
+    "https://www.healthline.com/nutrition/calorie-cycling-101": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting specifically.",
+        "summary": "Focuses on calorie cycling and its effects on dieting."
+    },
+    "https://jamanetwork.com/journals/jamapediatrics/fullarticle/347740": {
+        "level": 1,
+        "classification": "ERROR",
+        "explanation": "Document is inaccessible, no content available.",
+        "summary": "No information provided due to access issue."
+    },
+    "https://www.healthline.com/nutrition/16-ways-relieve-stress-anxiety": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on stress relief techniques and mental health."
+    },
+    "https://www.healthline.com/about/process": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Overview of Healthline's editorial process and health topics."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8460695/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting on sleep.",
+        "summary": "Examines effects of time-restricted feeding on sleep quality and weight loss."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990470/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Intermittent fasting improves insulin sensitivity, blood pressure, and oxidative stress without weight loss."
+    },
+    "https://www.healthline.com/nutrition/intermittent-fasting-and-weight-loss?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explains intermittent fasting methods, benefits, and health considerations."
+    },
+    "https://www.healthline.com/authors/kris-gunnars": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.healthline.com/nutrition/intermittent-fasting-coffee?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explains intermittent fasting, its benefits, and coffee's role."
+    },
+    "https://www.healthline.com/authors/ansley-hill": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.healthline.com/nutrition/48-hour-fasting?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Discusses health benefits and drawbacks of 48-hour fasting."
+    },
+    "https://www.healthline.com/authors/daniel-preiato": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.healthline.com/nutrition/water-fasting?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of water fasting, related to intermittent fasting.",
+        "summary": "Explains water fasting's health benefits and associated risks."
+    },
+    "https://www.healthline.com/nutrition/what-breaks-a-fast?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and metabolic changes of intermittent fasting.",
+        "summary": "Explains intermittent fasting, its benefits, and metabolic effects."
+    },
+    "https://www.healthline.com/health/ibd/fasting-mimicking-diet-ibd?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of fasting, particularly for IBD.",
+        "summary": "Explores fasting-mimicking diets and intermittent fasting effects on IBD."
+    },
+    "https://www.healthline.com/medical-team": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various health topics but lacks information on intermittent fasting."
+    },
+    "https://www.healthline.com/health/diet-weight-loss/watermelon-diet-fact-or-fiction?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses the watermelon diet, not intermittent fasting.",
+        "summary": "Explores the watermelon diet's claims, benefits, and risks."
+    },
+    "https://www.healthline.com/health/pros-and-cons-of-keto-diet?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on the keto diet, not intermittent fasting.",
+        "summary": "Discusses pros and cons of the ketogenic diet."
+    },
+    "https://www.healthline.com/nutrition/fasting-mimicking-diet?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of fasting mimicking diet.",
+        "summary": "Explains fasting mimicking diet's benefits and associated risks."
+    },
+    "https://www.healthline.com/authors/catherine-crider": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/pros-and-cons-of-intermittent-fasting#cookieNotice": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Discusses pros and cons of intermittent fasting, including health impacts."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/pros-and-cons-of-intermittent-fasting#main-content": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Discusses pros and cons of intermittent fasting, including health impacts."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/pros-and-cons-of-intermittent-fasting#": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Discusses pros and cons of intermittent fasting, including health impacts."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom.topic=Patient%20Care": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses pros and cons of intermittent fasting.",
+        "summary": "Explores benefits and risks of intermittent fasting."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom.topic=Heart%20Conditions%20&%20Heart%20Surgery": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various articles unrelated to intermittent fasting."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom.topic=Health%20&%20Wellness": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses pros and cons of intermittent fasting.",
+        "summary": "Explores benefits and risks of intermittent fasting."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/10-foods-to-lower-cholesterol": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on cholesterol-lowering foods, not intermittent fasting.",
+        "summary": "Discusses dietary changes to lower cholesterol levels."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/how-to-achieve-your-target-blood-pressure": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on blood pressure management, not intermittent fasting.",
+        "summary": "Discusses hypertension and ways to control blood pressure."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/how-to-control-blood-sugar-with-diet": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on blood sugar control, not intermittent fasting.",
+        "summary": "Discusses dietary changes for managing blood sugar levels."
+    },
+    "https://newsroom.heart.org/news/8-hour-time-restricted-eating-linked-to-a-91-higher-risk-of-cardiovascular-death": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Study links 8-hour fasting to higher cardiovascular death risk."
+    },
+    "https://www.boston25news.com/news/study-intermittent-fasting-may-raise-risk-cardiovascular-death/0db1ee67-9962-432c-afd2-d510afe55b2c/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains various news and live stream links."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/what-is-diabetes": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on diabetes, not intermittent fasting benefits or risks.",
+        "summary": "Discusses diabetes types, causes, symptoms, and management."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/risk-factors-for-heart-disease-in-women": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on heart disease in women, not intermittent fasting.",
+        "summary": "Discusses heart disease risks and prevention for women."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/chronic-kidney-disease-treatment": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on chronic kidney disease, not intermittent fasting.",
+        "summary": "Discusses chronic kidney disease treatment and management."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/sugary-drinks-liver-disease": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on sugary drinks and liver disease, not intermittent fasting.",
+        "summary": "Discusses health risks of sugary drinks and liver disease."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/eating-disorders-in-female-athletes": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on eating disorders in female athletes, not intermittent fasting.",
+        "summary": "Discusses risks of eating disorders among female athletes."
+    },
+    "https://www.massgeneralbrigham.org/en/patient-care/services-and-specialties/heart": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on heart care, not intermittent fasting.",
+        "summary": "Discusses cardiovascular care and heart conditions."
+    },
+    "https://www.massgeneralbrigham.org/en/about/newsroom/articles/are-eggs-heart-healthy": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on eggs and heart health, not intermittent fasting.",
+        "summary": "Discusses the health implications of egg consumption."
+    },
+    "https://www.hopkinsmedicine.org/-/media/news/documents/sterile-fluid-shortage.pdf": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses sterile fluids, not intermittent fasting.",
+        "summary": "Addresses supply issues of sterile fluids post-hurricane."
+    },
+    "https://neuroscience.jhu.edu/research/faculty/57": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on neurodegenerative disorders, not intermittent fasting.",
+        "summary": "Discusses brain aging and neurodegenerative disorders research."
+    },
+    "https://www.hopkinsmedicine.org/health/wellness-and-prevention/take-your-diet-to-the-mediterranean": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses Mediterranean diet, not intermittent fasting.",
+        "summary": "Focuses on benefits of Mediterranean diet for heart health."
+    },
+    "https://www.nejm.org/doi/full/10.1056/NEJMra1905136": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not provide specific benefits or risks of intermittent fasting.",
+        "summary": "Discusses metabolic effects of fasting but lacks detailed benefits and risks."
+    },
+    "https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/type-2-diabetes": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses type 2 diabetes, not intermittent fasting.",
+        "summary": "Information on type 2 diabetes causes, symptoms, and treatment."
+    },
+    "https://www.hopkinsmedicine.org/health/conditions-and-diseases/diabetes/type-1-diabetes": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses type 1 diabetes, not intermittent fasting.",
+        "summary": "Information on type 1 diabetes causes, symptoms, and treatment."
+    },
+    "https://profiles.hopkinsmedicine.org/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains provider listings and emergency contact information."
+    },
+    "https://profiles.hopkinsmedicine.org/search?unified=\"Nutrition\"&sort=networks%2Crelevance%2Cavailability_density_best": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains provider listings and contact information."
+    },
+    "https://profiles.hopkinsmedicine.org/search?unified=\"Weight+Loss\"&sort=networks%2Crelevance%2Cavailability_density_best": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains provider listings for weight loss services."
+    },
+    "https://www.hopkinsmedicine.org/clinical-nutrition": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses nutrition care, not intermittent fasting.",
+        "summary": "Focuses on clinical nutrition services and dietitian roles."
+    },
+    "https://www.hopkinsmedicine.org/johns-hopkins-howard-county": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses hospital services, not intermittent fasting.",
+        "summary": "Information about sterile fluids and hospital services."
+    },
+    "https://www.hopkinsmedicine.org/sibley-memorial-hospital": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses hospital services, not intermittent fasting.",
+        "summary": "Information about hospital services and health initiatives."
+    },
+    "https://www.hopkinsmedicine.org/suburban-hospital": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses hospital services, not intermittent fasting.",
+        "summary": "Information about hospital services and patient care."
+    },
+    "https://www.hopkinsmedicine.org/health/wellness-and-prevention/anti-inflammatory-diet": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses inflammation and diet, not intermittent fasting.",
+        "summary": "Covers anti-inflammatory diets and foods, not fasting."
+    },
+    "https://www.hopkinsmedicine.org/health/wellness-and-prevention/cooking-with-your-kids": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses cooking with kids, not intermittent fasting.",
+        "summary": "Focuses on healthy cooking tips for families."
+    },
+    "https://www.hopkinsmedicine.org/health/wellness-and-prevention/barley-farro-sorghum-and-more-9-whole-grains-to-try": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses whole grains, not intermittent fasting.",
+        "summary": "Explains benefits of whole grains and their health impacts."
+    },
+    "https://www.hopkinsmedicine.org/health/wellness-and-prevention/food-and-nutrition": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information on nutrition and recipes, not fasting."
+    },
+    "https://it.johnshopkins.edu/policies-privacystatement/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses privacy policies, not intermittent fasting.",
+        "summary": "Details privacy practices of Johns Hopkins University."
+    },
+    "https://www.onetrust.com/products/cookie-consent/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses cookie consent, not intermittent fasting.",
+        "summary": "Focuses on cookie compliance and consent management."
+    },
+    "https://www.healthline.com/drugs": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics and conditions."
+    },
+    "https://www.healthline.com/health/type-2-diabetes/insulin": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses insulin and diabetes, not intermittent fasting.",
+        "summary": "Focuses on insulin management for diabetes."
+    },
+    "https://www.healthline.com/nutrition/11-ways-to-increase-hgh": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits of intermittent fasting and its effects on HGH levels.",
+        "summary": "Explains how intermittent fasting can increase HGH levels and its health implications."
+    },
+    "https://www.healthline.com/nutrition/how-many-calories-per-day": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on calorie intake and weight loss strategies."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4733124/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting in detail.",
+        "summary": "Examines intermittent fasting's effects on weight loss and metabolic changes."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9698935/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Examines weight loss effects and safety of intermittent fasting 5:2 program."
+    },
+    "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2771095": {
+        "level": 1,
+        "classification": "ERROR",
+        "explanation": "Document text is inaccessible or empty.",
+        "summary": "No content available to summarize."
+    },
+    "https://www.healthline.com/nutrition/intermittent-fasting-and-weight-loss": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and health considerations of intermittent fasting.",
+        "summary": "Explains intermittent fasting methods, benefits, and health risks."
+    },
+    "https://www.healthline.com/nutrition/insulin-and-insulin-resistance": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on insulin resistance and related health conditions."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8970877/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Analyzes effects of intermittent fasting on glucose, lipids, and insulin resistance."
+    },
+    "https://diabetesjournals.org/diabetes/article/67/9/1867/16107/Restructuring-of-the-Gut-Microbiome-by": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explores intermittent fasting's effects on health, microbiome, and diabetes."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/25964778/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on gender differences in metabolism during fasting and exercise."
+    },
+    "https://www.healthline.com/health/oxidative-stress": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on oxidative stress and its effects on health."
+    },
+    "https://www.healthline.com/health/inflammation": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on inflammation and its effects on health."
+    },
+    "https://www.healthline.com/type-2-diabetes/what-to-eat": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on various health conditions and diabetes management."
+    },
+    "https://www.healthline.com/type-2-diabetes/essentials": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on various health conditions and diabetes management."
+    },
+    "https://www.healthline.com/type-2-diabetes/essentials/blood-sugar-management": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information on various health conditions and diabetes management."
+    },
+    "https://www.healthline.com/type-2-diabetes/medications": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on health conditions and diabetes treatment."
+    },
+    "https://www.healthline.com/type-2-diabetes/medications/insulin": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information on various health conditions and insulin."
+    },
+    "https://www.healthline.com/type-2-diabetes/medications/metformin": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Covers various health conditions and diabetes medications."
+    },
+    "https://www.healthline.com/health/heart-disease": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document focuses on heart disease, not intermittent fasting.",
+        "summary": "Discusses heart disease types, symptoms, causes, and treatments."
+    },
+    "https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses causes of death, not intermittent fasting.",
+        "summary": "Details global causes of death and health statistics."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7415631/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explores intermittent fasting's effects on cardiovascular health."
+    },
+    "https://www.healthline.com/health/drugs/rybelsus?utm_source=hl&utm_medium=cdi-driver&subid=e%3Acc_s%3Ahl_p%3Acdi_n%3At2d_l%3Athird_v%3Arybelsus_47793&rvo_sys=mar&correlationId=78d19eef-12b1-45a2-9ef1-fbdeec00ba1a": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses Rybelsus, not intermittent fasting.",
+        "summary": "Focuses on Rybelsus medication for diabetes management."
+    },
+    "https://www.healthline.com/health/autophagy": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses intermittent fasting and its benefits related to autophagy.",
+        "summary": "Explains autophagy, its benefits, and fasting's role in triggering it."
+    },
+    "https://www.healthline.com/nutrition/fasting-benefits": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explains health benefits and safety concerns of fasting."
+    },
+    "https://academic.oup.com/eurpub/article/30/Supplement_5/ckaa166.216/5914370": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document lacks content on intermittent fasting benefits and risks.",
+        "summary": "Contains navigation and sharing options, no relevant information."
+    },
+    "https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.21694": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting in cancer context.",
+        "summary": "Explores intermittent fasting's effects on cancer prevention and treatment."
+    },
+    "https://jeccr.biomedcentral.com/articles/10.1186/s13046-019-1189-9": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of short-term fasting in cancer treatment.",
+        "summary": "Explores short-term fasting effects on chemotherapy efficacy and safety."
+    },
+    "https://www.healthline.com/nutrition/15-ways-to-lower-blood-sugar": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on managing blood sugar levels and diabetes."
+    },
+    "https://www.ahajournals.org/doi/10.1161/str.51.suppl_1.WP138": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits of intermittent fasting related to stroke recovery.",
+        "summary": "Intermittent fasting improves post-stroke recovery and reduces brain damage."
+    },
+    "https://www.healthline.com/health/alzheimers-disease": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses Alzheimer's disease, not intermittent fasting.",
+        "summary": "Covers Alzheimer's disease symptoms, diagnosis, and treatment."
+    },
+    "https://www.healthline.com/health/parkinsons": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses Parkinson's disease, not intermittent fasting.",
+        "summary": "Covers symptoms, causes, and treatments for Parkinson's disease."
+    },
+    "https://www.healthline.com/health/huntingtons-disease": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses Huntington's disease, not intermittent fasting.",
+        "summary": "Details about Huntington's disease, its symptoms, causes, and treatments."
+    },
+    "https://www.sciencedirect.com/science/article/pii/S1550413118305126": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting in detail.",
+        "summary": "Explores health benefits and risks of intermittent fasting in mice."
+    },
+    "https://www.nature.com/articles/s41467-017-00178-3": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting in mice.",
+        "summary": "Examines effects of every-other-day feeding on lifespan and health in mice."
+    },
+    "https://www.healthline.com/nutrition/13-habits-linked-to-a-long-life": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting specifically.",
+        "summary": "Focuses on general health habits for longevity."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9998115/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explores intermittent fasting's benefits, side effects, and quality of life."
+    },
+    "https://www.healthline.com/nutrition/intermittent-fasting-guide": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Covers benefits and risks of intermittent fasting.",
+        "summary": "Discusses intermittent fasting, its benefits, methods, and precautions."
+    },
+    "https://www.healthline.com/health/es/beneficios-de-ayuno-intermitentes": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Details benefits and risks of intermittent fasting.",
+        "summary": "Discusses health benefits and potential risks of intermittent fasting."
+    },
+    "https://www.healthline.com/health/food-nutrition/intermittent-fasting-for-real-people-practical-tips-to-eat-on-schedule?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explains intermittent fasting, its benefits, and potential risks."
+    },
+    "https://www.healthline.com/nutrition/intermittent-fasting-metabolism?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and metabolic effects of intermittent fasting.",
+        "summary": "Intermittent fasting aids weight loss and metabolism, with hormonal benefits."
+    },
+    "https://www.healthline.com/nutrition/intermittent-fasting-and-keto?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explains intermittent fasting, its benefits, and potential risks."
+    },
+    "https://www.healthline.com/authors/jillian-kubala-ms-rd": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not fasting."
+    },
+    "https://www.healthline.com/nutrition/superfoods-for-weight-loss?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on various health conditions and wellness topics."
+    },
+    "https://www.healthline.com/authors/rachael-link": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains links to various health topics but not intermittent fasting."
+    },
+    "https://www.healthline.com/health/type-2-diabetes-and-hormonal-imbalance?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on managing type 2 diabetes and hormonal imbalances."
+    },
+    "https://www.healthline.com/health-news/dark-chocolate-may-lower-diabetes-risk?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses dark chocolate and diabetes, not intermittent fasting.",
+        "summary": "Focuses on dark chocolate's effects on type 2 diabetes risk."
+    },
+    "https://www.healthline.com/health/diabetes/new-engagement-how-long-does-it-take-to-reverse-prediabetes?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Focuses on prediabetes and diabetes management strategies."
+    },
+    "https://www.healthline.com/health/type-2-diabetes-and-gum-disease?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document discusses type 2 diabetes and gum disease, not intermittent fasting.",
+        "summary": "Explains the link between type 2 diabetes and gum disease."
+    },
+    "https://www.healthline.com/health-news/quincy-jones-death-diabetes?utm_source=ReadNext": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Focuses on Quincy Jones' health issues, not intermittent fasting.",
+        "summary": "Discusses Quincy Jones' diabetes and health challenges."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Information about PubMed Central and its services."
+    },
+    "https://www.ncbi.nlm.nih.gov/pmc/advanced/": {
+        "level": 1,
+        "classification": "ERROR",
+        "explanation": "Document contains an external link, no relevant content.",
+        "summary": "Document includes a privacy policy link."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/journals/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information about various journals and their details."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/about/userguide/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Guide on using PubMed Central for article searches."
+    },
+    "https://doi.org/10.7759/cureus.34722": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not address intermittent fasting benefits or risks.",
+        "summary": "Contains sign-in and account creation information."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9998115/pdf/cureus-0015-00000034722.pdf": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Covers benefits and risks of intermittent fasting.",
+        "summary": "Discusses intermittent fasting's benefits, side effects, and participant experiences."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/about/disclaimer/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information about government website security and disclaimers."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/about/copyright/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains information about copyright and access to articles."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/?term=%22Shalabi%20H%22%5BAuthor%5D": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains navigation and citation information, no relevant content."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/?term=%22Hassan%20AS%22%5BAuthor%5D": {
+        "level": 1,
+        "classification": "ERROR",
+        "explanation": "Document does not contain relevant information on intermittent fasting.",
+        "summary": "Document is about website navigation and search results."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/?term=%22AL-Zahrani%20FA%22%5BAuthor%5D": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains navigation and search results, no relevant content."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/?term=%22Alarbeidi%20AH%22%5BAuthor%5D": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and side effects of intermittent fasting.",
+        "summary": "Evaluates intermittent fasting's benefits, side effects, and quality of life."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/?term=%22Mesawa%20M%22%5BAuthor%5D": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and side effects of intermittent fasting.",
+        "summary": "Evaluates intermittent fasting's benefits, side effects, and quality of life."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/?term=%22Rizk%20H%22%5BAuthor%5D": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains navigation and search results, no relevant content."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/?term=%22Aljubayri%20AA%22%5BAuthor%5D": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains navigation and citation information, no relevant content."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/36909028/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and side effects of intermittent fasting.",
+        "summary": "Evaluates intermittent fasting's benefits, side effects, and quality of life."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9998115/table/TAB1/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss intermittent fasting benefits or risks.",
+        "summary": "Contains demographic data about respondents, not fasting information."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9998115/table/TAB2/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document lacks information on benefits and risks of intermittent fasting.",
+        "summary": "Discusses practices of intermittent fasting without benefits or risks."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9998115/figure/FIG1/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss benefits or risks of intermittent fasting.",
+        "summary": "Contains copyright information and a reference to an article."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9998115/table/TAB3/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses symptoms related to intermittent fasting, indicating risks.",
+        "summary": "Lists symptoms experienced during intermittent fasting."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9998115/figure/FIG2/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss benefits or risks of intermittent fasting.",
+        "summary": "Contains copyright information and a reference to an article."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9998115/table/TAB4/": {
+        "level": 1,
+        "classification": "Irrelevant",
+        "explanation": "Document does not discuss benefits or risks of intermittent fasting.",
+        "summary": "Contains statistical data on perceived happiness related to intermittent fasting."
+    },
+    "https://doi.org/10.1186/s12889-022-12908-4": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting practices.",
+        "summary": "Explores intermittent fasting among Saudis, including health impacts and motivations."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8959076/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting among Saudis.",
+        "summary": "Explores intermittent fasting practices, health impacts, and motivations."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/35346130/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses intermittent fasting practices and health effects.",
+        "summary": "Research on intermittent fasting practices and health impacts in Saudi Arabia."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/32060194/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Examines intermittent fasting's effects on obesity and weight loss."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7021351/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Examines evidence for intermittent fasting in treating obesity."
+    },
+    "https://scholar.google.com/scholar_lookup?journal=Can%20Fam%20Physician&title=Intermittent%20fasting%20and%20weight%20loss:%20systematic%20review&volume=66&publication_year=2020&pages=117-125&pmid=32060194&": {
+        "level": 1,
+        "classification": "ERROR",
+        "explanation": "Document loading failed, no content available.",
+        "summary": "Unable to access document content."
+    },
+    "https://scholar.google.com/scholar_lookup?World%20Health%20Organization,%20%22Health%20Topics%22.%20%5B%20Apr;%202022%20%5D;https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight%202021%209:2021.": {
+        "level": 1,
+        "classification": "ERROR",
+        "explanation": "Document is inaccessible and cannot be loaded.",
+        "summary": "Unable to retrieve information about intermittent fasting."
+    },
+    "https://doi.org/10.3390/nu11030673": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explores intermittent fasting's effects on health, including benefits and risks."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6471315/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explores intermittent fasting's effects on health, including benefits and risks."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/30897855/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits of intermittent fasting and its health effects.",
+        "summary": "Explores intermittent fasting's effects on health and weight loss."
+    },
+    "https://doi.org/10.1186/1475-2891-12-146": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of alternate day fasting.",
+        "summary": "Examines effects of alternate day fasting on weight loss and heart disease risk."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC3833266/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of alternate day fasting.",
+        "summary": "Examines effects of alternate day fasting on weight loss and health risks."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/24215592/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses alternate day fasting benefits and effects.",
+        "summary": "Examines alternate day fasting's impact on weight and heart disease risk."
+    },
+    "https://doi.org/10.3390/nu11040873": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting for diabetes.",
+        "summary": "Explores intermittent fasting's effects, benefits, and risks for diabetes patients."
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6521152/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting for diabetes.",
+        "summary": "Explores intermittent fasting's effects, benefits, and risks for diabetes patients."
+    },
+    "https://pubmed.ncbi.nlm.nih.gov/31003482/": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting for diabetes.",
+        "summary": "Overview of intermittent fasting's effects on diabetes management."
+    },
+    "https://doi.org/10.3390/nu14030631": {
+        "level": 1,
+        "classification": "Relevant",
+        "explanation": "Discusses benefits and risks of intermittent fasting.",
+        "summary": "Explores intermittent fasting's effects on weight, insulin resistance, and cardiovascular health."
+    },
+    "overview": {
+        "relevant_count": 99,
+        "irrelevant_count": 279,
+        "error_count": 7,
+        "invalid_count": 115
+    }
+}
